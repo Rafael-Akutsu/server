@@ -1,0 +1,19 @@
+body{
+    background-color: rgb(67, 66, 66);
+    color: white;
+    margin: 0;
+}
+
+
+header {
+    background-color: blueviolet;
+    color: white;
+    height: 100px;
+    width: 100%;
+    text-align: center;
+    padding: 0.1px;
+}
+
+body h1{
+    text-align: center;
+}
